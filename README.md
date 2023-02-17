@@ -1,2 +1,0 @@
-# edmmcl.github.io
-Notion
